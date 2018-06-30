@@ -1,2 +1,2 @@
 # feature-requests
-Delly's Feature Request page
+Devly's Feature Request page
